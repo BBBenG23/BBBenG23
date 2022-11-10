@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Bengi
-- 👀 I’m interested in machine learning and natural language processing
+- University of Michigan student interested in machine learning.
 
 <!---
 BBBenG23/BBBenG23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
